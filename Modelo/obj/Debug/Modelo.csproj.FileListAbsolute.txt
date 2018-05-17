@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\Modelo.dll
+C:\Users\usuario\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\Modelo.pdb
+C:\Users\usuario\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\PortafoliodePrueba1\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PortafoliodePrueba1\Modelo\obj\Debug\Modelo.dll
+C:\Users\usuario\Desktop\PortafoliodePrueba1\Modelo\obj\Debug\Modelo.pdb
+C:\Users\505\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\Modelo.dll
+C:\Users\505\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\Modelo.pdb
+C:\Users\505\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\505\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\505\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\505\Desktop\PortafoliodePrueba1\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\505\Desktop\PortafoliodePrueba1\Modelo\obj\Debug\Modelo.dll
+C:\Users\505\Desktop\PortafoliodePrueba1\Modelo\obj\Debug\Modelo.pdb
